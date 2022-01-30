@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "594129198668",
+    "project_id": "restohub-b6c1b",
+    "storage_bucket": "restohub-b6c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594129198668:android:90dbdcfe5207bfff6e1ee9",
+        "android_client_info": {
+          "package_name": "com.example.restohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594129198668-duhbm9k245sj2bc0vrsithierr07n0en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc5GNMw6znnaBK247dtYrdNkMwHIsFVfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594129198668-duhbm9k245sj2bc0vrsithierr07n0en.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594129198668-49b3bg9j4eqpjdar3jqicqe0nutm0539.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restohub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
